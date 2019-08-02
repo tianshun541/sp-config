@@ -7,7 +7,7 @@ spring:
       server:
         git:
           uri: https://github.com/tianshun541/nanshou2
-          searchPaths: config
+          searchPaths: sp-12config
           #username: your-username
           #password: your-password
     
